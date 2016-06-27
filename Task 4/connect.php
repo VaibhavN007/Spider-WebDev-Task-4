@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "demo_form";
+$dbname = "Bulletin_Board_01";
 
 $con = mysqli_connect($servername, $username, $password);
 
