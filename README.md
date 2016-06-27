@@ -17,3 +17,4 @@ MySQLi is used to interface with MySQL through PHP
 5. The page should confirm successful creation of database and table.
 6. This would create a database named "Bulletin_Board_01" and two tables "spiderusers" and "posts".  
 7. In the address bar of the browser type "http://localhost/index.php"
+8. The first ever user in database will automatically be promoted to admin.
